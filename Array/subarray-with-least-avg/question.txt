@@ -1,0 +1,1 @@
+1. Given an array arr[] of size n and integer k such that k <= n.Find the array with least average.
