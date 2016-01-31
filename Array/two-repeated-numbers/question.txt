@@ -1,0 +1,4 @@
+There is an array of size n + 2 (numbers are between 0 and n - 1) and only 2 numbers are repeated. Find the two repeated numbers.
+Example:
+Input: arr = [4, 4, 2, 5, 2, 3, 1], n = 5
+Output: 2, 4
