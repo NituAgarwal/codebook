@@ -13,5 +13,5 @@ def find_repeated_numbers(arr, n)
 	dup_arr
 end
 
-arr = [2, 3, 1, 4, 4, 6, 5, 5]
-find_repeated_numbers arr, 6
+arr = [2, 3, 1, 3, 4, 6, 5, 5]
+p find_repeated_numbers arr, 8
