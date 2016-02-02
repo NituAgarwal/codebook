@@ -1,4 +1,4 @@
-Given an array arr[] of size n. 
+Given an array arr[] of size n.
 k elements are given.
 Consider k = 3.
 Three elements arr[i], arr[j] and arr[k] form an inversion of size 3 if a[i] > a[j] >a[k] and i < j < k. Find total number of inversions of size k.
@@ -14,10 +14,3 @@ Input:  {9, 6, 4, 5, 8}
 k=3
 Output:  2
 The two inversions are {9, 6, 4} and {9, 6, 5}
-
-
-Approach:
-Step1: Question should be clear. In this consider if array can have duplicate values.
-If array can have negative numbers
-
-Step2: think clearly
