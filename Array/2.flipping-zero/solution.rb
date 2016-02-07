@@ -32,3 +32,5 @@ end
 
 arr = [1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0]
 p flipping_zeros(arr, 2)
+arr = [0, 0, 1]
+p flipping_zeros(arr, 5)
