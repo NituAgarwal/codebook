@@ -31,14 +31,14 @@ class LinkedList
     end
   end
 
-  # Iterate through LinkedList and yield values to block.
+  # Iterate through LinkedList and yield nodes to block.
   def each
     return to_enum(:each) unless block_given?
 
     current_node = @head
 
     while current_node != nil
-      yield current_node.value
+      yield current_node
       current_node = current_node.next
     end
   end
