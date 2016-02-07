@@ -1,0 +1,7 @@
+Find max and nextmax of arar
+
+arr = [2,13,5,7,9,14,12,11]
+
+output:
+max:14
+nextmax:13
